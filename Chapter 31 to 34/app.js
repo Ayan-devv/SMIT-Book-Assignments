@@ -12,6 +12,7 @@ function program2() {
     alert("Current Month: " + currentMonth);
 }
 
+
 // Program 3: Alert the first 3 letters of the current day (e.g., Sun for Sunday).
 function program3() {
     let currentDate = new Date();
