@@ -10,6 +10,7 @@ function greetUser(firstName, lastName) {
     console.log("Hello, " + fullName + "!");
 }
 
+
 // Program 3: Function that adds two numbers and returns the sum
 function addTwoNumbers(num1, num2) {
     let sum = num1 + num2;
