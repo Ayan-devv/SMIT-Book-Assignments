@@ -13,8 +13,6 @@ function checkCharacter() {
 }
 console.log(checkCharacter());
 
-
-
 function compareIntegers() {
     let a = parseInt(prompt("Enter the first integer:"));
     let b = parseInt(prompt("Enter the second integer:"));
