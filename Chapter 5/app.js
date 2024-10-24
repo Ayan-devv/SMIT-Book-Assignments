@@ -8,6 +8,8 @@ currentAge = 15;
 maximunAge = 65;
 snacksPerDay = 5;
 
+
+
 var totalDaysInMaximunAge = 365 * maximunAge;
 var totalDaysInCurrentAge = 365 * currentAge;
 
